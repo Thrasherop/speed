@@ -40,3 +40,6 @@ root                    (project root folder)
 ## Authors
 ---
 * Joshua Kopaunik 
+* Ethan McRae
+* Brigham Chen
+* Jaden Day
